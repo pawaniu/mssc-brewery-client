@@ -8,6 +8,7 @@ public class MsscBreweryClientApplicationTests {
 
     @Test
     public void contextLoads() {
+
     }
 
 }
